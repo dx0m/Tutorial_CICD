@@ -18,4 +18,4 @@ test(40, 150)
 
 test_new_function(2, 3, 4)
 test_new_function(20, 30, 40)
-test_new_function(10,20,'x')
+test_new_function(10,20,10)
