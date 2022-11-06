@@ -6,6 +6,10 @@ def calculation(a,b):
     c = a + b
     return c
 
+def new_function(a,b,c): #Новая функция
+    x= a*b/c
+    return x
+
 @app.route("/")
 def index():
 
